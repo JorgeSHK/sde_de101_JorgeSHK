@@ -1,0 +1,15 @@
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.
+
+1 Understand the Business Context:
+  Identify the primary objectives of the business.
+  Determine what types of decisions need to be made based on data.
+2 Conduct Interviews and Meetings:
+  Prepare questions about their data and analytics needs.
+3 Evaluate Existing Data Sources:
+4 Analyze the Current Technological Infrastructure:
+  Assess storage capabilities.
+5 Propose a Data Architecture:
+6 Create a Roadmap:
+  Prioritize projects based on impact and ease of implementation.
+7 Implementation Plan
+  Start with a pilot project.
